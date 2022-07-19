@@ -4,7 +4,7 @@
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="">
-<iframe src="https://giphy.com/embed/xT9IgzoKnwFNmISR8I" width="480" height="429" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I">via GIPHY</a></p>
+<div style="padding-top:65.000%;position:relative;"><iframe src="https://gifer.com/embed/2DYg" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashidaliansari&label=Profile%20views&color=0e75b6&style=flat" alt="rashidaliansari" /> </p>
 
